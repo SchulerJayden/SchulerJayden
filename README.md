@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jayden Schuler
-- 🌱 I’m currently a Computer Programming student
+- 🌱 I am a Software Developer & Tester
 - 📫 How to reach me: schulerjayden@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big hockey fan!
